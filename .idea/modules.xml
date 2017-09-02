@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/search.by.company.iml" filepath="$PROJECT_DIR$/.idea/modules/search.by.company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/search.by.company_main.iml" filepath="$PROJECT_DIR$/.idea/modules/search.by.company_main.iml" group="search.by.company" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/search.by.company_test.iml" filepath="$PROJECT_DIR$/.idea/modules/search.by.company_test.iml" group="search.by.company" />
+    </modules>
+  </component>
+</project>

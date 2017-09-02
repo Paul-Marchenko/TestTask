@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InputSymbolTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-09-02T14:07:30" hostname="MacBook-Pro-Pavel.local" time="5.596">
+  <properties/>
+  <testcase name="searchInputtedSymbols" classname="InputSymbolTest" time="5.596"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.32.498537 (cb2f855cbc7b82e20387eaf9a43f6b99b6105061) on port 18483
+Only local connections are allowed.
+Sep 02, 2017 5:07:31 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Sep 02, 2017 5:07:32 PM com.codeborne.selenide.webdriver.WebDriverFactory createWebDriver
+INFO: BrowserName=chrome Version=60.0.3112.113 Platform=MAC
+Sep 02, 2017 5:07:32 PM com.codeborne.selenide.webdriver.WebDriverFactory createWebDriver
+INFO: Selenide v. 4.5.1
+Sep 02, 2017 5:07:32 PM com.codeborne.selenide.webdriver.WebDriverFactory createWebDriver
+INFO: Selenium WebDriver v. 3.5.3 build time: 2017-08-29T12:42:44.417Z
+Sep 02, 2017 5:07:32 PM com.codeborne.selenide.impl.WebDriverThreadLocalContainer createDriver
+INFO: Create webdriver in current thread 11: ChromeDriver -> ChromeDriver: chrome on MAC (e7da6cc5dad700fb7e9f8ccbc8113d56)
+]]></system-err>
+</testsuite>
